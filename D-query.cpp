@@ -1,6 +1,14 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+
+/*
+	Key : Square-Root Decomposition.
+
+*/
+
+
+
 const int N = 30005;
 const int block = sqrt (N);
 const int M = 200005;
