@@ -2,6 +2,10 @@
 #define MAXN 100000+10
 using namespace std;
 typedef long long LL;
+
+/*
+ Key: Data Structure (Segment Trees with Lazy Propagation)
+*/
  
 struct segment_tree
 {
