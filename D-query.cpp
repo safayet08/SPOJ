@@ -4,7 +4,7 @@ using namespace std;
 
 /*
 	Key : Square-Root Decomposition.
-
+	- Time Limit is strict. So added Fast I/O.
 */
 
 
